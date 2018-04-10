@@ -123,8 +123,8 @@ projects[logintoboggan][subdir] = "contrib"
 
 projects[mail_edit][subdir] = "contrib"
 
-projects[mail_edit_features][version] = "1.x-dev"
-projects[mail_edit_features][subdir] = "contrib"
+;projects[mail_edit_features][version] = "1.x-dev"
+;projects[mail_edit_features][subdir] = "contrib"
 
 projects[mail_logger][version] = "1.1"
 projects[mail_logger][subdir] = "contrib"
